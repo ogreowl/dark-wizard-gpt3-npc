@@ -8,8 +8,11 @@ Example:
 <img width="594" alt="demonstration" src="https://user-images.githubusercontent.com/86581611/207442135-4423f571-ebb2-47c2-b852-590187eba7b4.png">
 All lowercase text is the player's input. The text with normal capitalization is the AI's output. 
 
+
 How:
+
 This program takes in a string from the user, and then gives the user's input to GPT-3, along with some added context on how GPT-3 should respond. Then, it outputs GPT-3s response on-screen, presented as a line of dialogue from the NPC. This program also saves the player's input and GPT-3's output as context for GPT-3's future outputs. 
+
 
 Limitations:
 
@@ -22,6 +25,7 @@ Limitations:
 4: Even if the player tries not to break character, there is always a small chance that the AI says an undesirable response.
 
 5: The AI has a limited memory. In this iteration, the AI can remember up to 3 back-and-forth interactions with the player. It's memory can be easily increased, but it's likely that there is a non-trivial cap of how many past interactions an NPC can remember.
+
 
 
 Suggestions for future research:
