@@ -35,7 +35,7 @@ This program takes in a string from the user, and then gives the user's input to
 
 <font size=”32”>**Suggestions for future research:**</font>
 
-1: People should try using GPT-3 to make other parts of video games more immersive. For example. after a player buys an item, steals something, or casts a spell, NPCs can generate original lines of dialogue.
+1: People should try using GPT-3 to make other parts of video games more immersive. For example, after a player buys an item, steals something, or casts a spell, NPCs can generate original lines of dialogue.
 
 2: People should experiment with giving GPT-3 different instructions for how to respond with the player. With this technology, it's definitely possible to create a more complex character with a backstory, motivation, passions, fears, etc.
 
