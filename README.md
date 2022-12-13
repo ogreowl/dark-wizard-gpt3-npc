@@ -29,7 +29,7 @@ This program takes in a string from the user, and then gives the user's input to
 
 4: Even when given a carefully curated input, there is always a small chance that the AI gives an undesirable response.
 
-5: The AI has a limited memory. In this iteration, the AI can remember up to 3 back-and-forth interactions with the player. Its memory can be easily increased from, there is likely a non-trivial cap of how many past interactions the NPC can remember.
+5: The AI has a limited memory. In this iteration, the AI can remember up to 3 back-and-forth interactions with the player. Its memory can be easily increased from that, butthere is likely a non-trivial cap of how many past interactions the NPC can remember.
 
 *
 
