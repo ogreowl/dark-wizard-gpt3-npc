@@ -9,6 +9,7 @@ Example:
 All lowercase text is the player's input. The text with normal capitalization is the AI's output. 
 
 
+
 How:
 
 This program takes in a string from the user, and then gives the user's input to GPT-3, along with some added context on how GPT-3 should respond. Then, it outputs GPT-3s response on-screen, presented as a line of dialogue from the NPC. This program also saves the player's input and GPT-3's output as context for GPT-3's future outputs. 
