@@ -1,21 +1,22 @@
 # Dark_Wizard_AI_NPC
 
-Description:
+**Description:**
+
 This project uses OpenAI's GPT-3 to make a "dark wizard" non-playable character. In this iteration, the player can say anything they want to the NPC, and the NPC will respond in the character of a manipulative, dark wizard. This project shows how cutting-edge language models can be easily implemented to make non-playable characters more immersive in video games.
 
-Example:
+**Example:**
 
 <img width="594" alt="demonstration" src="https://user-images.githubusercontent.com/86581611/207442135-4423f571-ebb2-47c2-b852-590187eba7b4.png">
 All lowercase text is the player's input. The text with normal capitalization is the AI's output. 
 
+*
 
-
-How:
+**How:**
 
 This program takes in a string from the user, and then gives the user's input to GPT-3, along with some added context on how GPT-3 should respond. Then, it outputs GPT-3s response on-screen, presented as a line of dialogue from the NPC. This program also saves the player's input and GPT-3's output as context for GPT-3's future outputs. 
 
 
-Limitations:
+**Limitations:**
 
 1: Calling the GPT-3 API costs a small amount of money (currently ranges from $0.02 cents to $0.0004 cents per 750 words, depending on the language model used). Though it's already pretty cheap and will get cheaper over time, this technology can become costly if implemented into a video game that's brought to a mass market.
 
@@ -29,7 +30,7 @@ Limitations:
 
 
 
-Suggestions for future research:
+**Suggestions for future research:**
 
 1: People should try using GPT-3 to make other parts of video games more immersive. After a player buys an item or casts a spell, NPCs can generate original lines of dialogue.
 
