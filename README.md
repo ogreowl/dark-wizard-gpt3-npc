@@ -4,6 +4,8 @@
 
 This project uses OpenAI's GPT-3 to make a "dark wizard" non-playable character. In this iteration, the player can say anything they want to the NPC, and the NPC will respond in the character of a manipulative, dark wizard. This project shows how cutting-edge language models can be easily implemented to make non-playable characters more immersive in video games.
 
+*
+
 <font size=”32”>**Example:**</font>
 
 <img width="594" alt="demonstration" src="https://user-images.githubusercontent.com/86581611/207442135-4423f571-ebb2-47c2-b852-590187eba7b4.png">
@@ -15,6 +17,7 @@ All lowercase text is the player's input. The text with normal capitalization is
 
 This program takes in a string from the user, and then gives the user's input to GPT-3, along with some added context on how GPT-3 should respond. Then, it outputs GPT-3s response on-screen, presented as a line of dialogue from the NPC. This program also saves the player's input and GPT-3's output as context for GPT-3's future outputs. 
 
+*
 
 <font size=”32”>**Limitations:**</font>
 
@@ -28,7 +31,7 @@ This program takes in a string from the user, and then gives the user's input to
 
 5: The AI has a limited memory. In this iteration, the AI can remember up to 3 back-and-forth interactions with the player. It's memory can be easily increased, but it's likely that there is a non-trivial cap of how many past interactions an NPC can remember.
 
-
+*
 
 <font size=”32”>**Suggestions for future research:**</font>
 
