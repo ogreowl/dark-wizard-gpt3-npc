@@ -19,9 +19,13 @@ This program takes in a string from the user, and then gives the user's input to
 <font size=”32”>**Limitations:**</font>
 
 1: Calling the GPT-3 API costs a small amount of money (currently ranges from $0.02 cents to $0.0004 cents per 750 words, depending on the language model used). Though it's already pretty cheap and will get cheaper over time, this technology can become costly if implemented into a video game that's brought to a mass market.
+
 2: Calling GPT-3 also takes a slight amount of time. This is miniscule on this scale purposes, but this could present difficulties in a much larger project.
+
 3: The AI can easily break character if a player decides to troll it. Ask it about the 2020 election, and the AI will tell you about its thoughts on Trump and Hillary. A possible solution to this is to give the player a limited number of dialogue options that they can choose to ask the AI.
+
 4: Even if the player tries not to break character, there is always a small chance that the AI says an undesirable response.
+
 5: The AI has a limited memory. In this iteration, the AI can remember up to 3 back-and-forth interactions with the player. It's memory can be easily increased, but it's likely that there is a non-trivial cap of how many past interactions an NPC can remember.
 
 
