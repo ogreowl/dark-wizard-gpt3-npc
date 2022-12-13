@@ -4,6 +4,7 @@ Description:
 This project uses OpenAI's GPT-3 to make a "dark wizard" non-playable character. In this iteration, the player can say anything they want to the NPC, and the NPC will respond in the character of a manipulative, dark wizard. This project shows how cutting-edge language models can be easily implemented to make non-playable characters more immersive in video games.
 
 Example:
+
 <img width="594" alt="demonstration" src="https://user-images.githubusercontent.com/86581611/207442135-4423f571-ebb2-47c2-b852-590187eba7b4.png">
 All lowercase text is the player's input. The text with normal capitalization is the AI's output. 
 
